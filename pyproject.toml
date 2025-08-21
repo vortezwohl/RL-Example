@@ -1,0 +1,10 @@
+[project]
+name = "rl-example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "deeplotx>=0.9.10",
+    "stable-baselines3>=2.7.0",
+]
